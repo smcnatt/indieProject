@@ -7,4 +7,5 @@
 | 1/22/2018 | Completed Exercise 1, week 1 and 2 videos, week 2 readings | 5 | |
 | 1/23/2018 | Week 2 videos, week 2 activities | 5 |
 | 1/24/2018 | Week 2 acivities | 1.5 | |
-| 1/25/2018 | Worked on Excercise 2 | 0.5 | |
+| 1/25/2018 | Worked on Excercise 2 | 2.5 | |
+| 1/26/2018 | Worked on Excercise 2 | 3 | |
