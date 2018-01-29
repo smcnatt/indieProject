@@ -10,3 +10,4 @@
 | 1/25/2018 | Worked on Exercise 2 | 2.5 | |
 | 1/26/2018 | Worked on Exercise 2 | 3 | |
 | 1/28/2018 | Worked on Exercise 2 | 0.5 | |
+| 1/29/2018 | Week 3 videos | 1 | |
