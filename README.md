@@ -4,6 +4,14 @@
 
 ### Problem Statement
 
+I currently have a very large music CD collection that I have been accumulating for almost 30 years.  They are all organized 
+in a CD case sorted alphabetically by group/artist name.  Also, they are all loaded in iTunes.  However, iTunes is limited
+in its ability to search and list the data.  This makes it difficult to get a good overall picture of my music CD collection.
+
+I would like to create a website that people could use to organize, list and view their music CD collection.  It would contain
+similar information to iTunes, but with a better interface for searching and listing the data.  I would also
+like to give the users of this website the ability to lend and borrow CDs between friends and family that also use the 
+website.
 
 
 ### Project Technologies/Techniques 
