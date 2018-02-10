@@ -13,3 +13,4 @@
 | 1/29/2018 | Week 3 videos | 1 | |
 | 2/1/2018 | Week 3 activities | 1 | |
 | 2/2/2018 | Week 3 activities and exercise | 3.5 | |
+| 2/10/2018 | Individual project problem statement | 2 | |
